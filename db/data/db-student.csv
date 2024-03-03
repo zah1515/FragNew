@@ -1,0 +1,4 @@
+studentId,collegeId,studentName,studentAge,phone,studentAddress
+"1","1","John Doe","21","1234567890","123 Main St, Anytown, USA"
+"2","1","Jane Smith","20","9876543210","456 Elm St, Othertown, USA"
+"3","2","Michael Johnson","22","5551234567","789 Oak St, Another Town, USA"
